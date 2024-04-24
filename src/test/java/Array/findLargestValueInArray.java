@@ -1,6 +1,6 @@
 package Array;
 
-public class findMaximumValueInArray {
+public class findLargestValueInArray {
 	public static void main(String[] args) {
 		// Array Concepts
 		int[] array = { 1, 2, 3, 0, 5, 6, 7, 8, 9, 10 };

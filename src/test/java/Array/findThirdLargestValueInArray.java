@@ -1,6 +1,6 @@
 package Array;
 
-public class findThirdMaximumValueInArray {
+public class findThirdLargestValueInArray {
 
 	public static void main(String[] args) {
 		// Find the Second Maximum value in a Array

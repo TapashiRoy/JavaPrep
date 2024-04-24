@@ -15,7 +15,7 @@ public class RemoveEvenIntegersfromArray {
 			if(arr[i]%2==0) {
 				result = arr[i];
 			}else {
-				System.out.println(arr[i]);
+				System.out.print(arr[i]);
 			}
 		}
 		return arr;

@@ -1,6 +1,6 @@
 package Array;
 
-public class FindMinimumValueInArray {
+public class FindSmallestValueInArray {
 
 	public static void main(String[] args) {
 		// Array Concepts
